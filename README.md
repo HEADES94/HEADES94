@@ -20,23 +20,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🎬 **Movie Project**  
-  A personal project exploring movie data, recommendations, and more!
-
-- 📚 **BookAlchemy**  
-  A cool project around books, data, and discovery.
-
----
 
 ## 🛠️ Top Skills
 
 - Python, Flask, SQL
 - Web Development
 - Cloud & Docker
-- Databases
-- AI & Machine Learning (in progress!)
+- AI & Machine Learning 
 
 ---
 
