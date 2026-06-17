@@ -4,7 +4,7 @@
 
 ---
 
-🎓 **Currently participating in the Backend and AI Engineering Program at Masterschool** (Dec 2024 – Mar 2026)  
+🎓 **Backend and AI Engineering** 
 - 🌐 Immersive online training initiated by top industry tech leaders  
 - 🖥️ Training to become a successful software engineer  
 - 🛠️ Acquiring hands-on skills in:  
