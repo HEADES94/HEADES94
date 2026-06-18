@@ -1,12 +1,10 @@
 # Hi there, I'm HEADES94 👋
 
-**Aspiring AI Engineer passionate about building impactful solutions**
+**AI Engineer passionate about building impactful solutions**
 
 ---
 
 🎓 **Backend and AI Engineering** 
-- 🌐 Immersive online training initiated by top industry tech leaders  
-- 🖥️ Training to become a successful software engineer  
 - 🛠️ Acquiring hands-on skills in:  
   - Python
   - Web Applications
